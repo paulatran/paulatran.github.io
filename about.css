@@ -1,0 +1,16 @@
+﻿body
+{
+}
+html {
+    background-color: lightblue;
+}
+
+.navigation {
+    background-color: lightgrey;
+    font-size: 15px;
+    color: darkgray;
+    text-align: center;
+}
+h1 {
+    text-align: center
+}
